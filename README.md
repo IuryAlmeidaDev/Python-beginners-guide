@@ -9,7 +9,7 @@ O objetivo deste repositório é praticar e consolidar os conceitos abordados no
 Os exercícios estão organizados por capítulos, seguindo a ordem apresentada no livro.
 
 ## Como usar
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+1. Clone o repositório: `git clone https://github.com/IuryAlmeidaDev/Python-beginners-guide`
 2. Navegue até a pasta correspondente ao capítulo desejado.
 3. Execute os scripts Python para testar as soluções.
 
