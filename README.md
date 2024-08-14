@@ -17,4 +17,4 @@ Os exercícios estão organizados por capítulos, seguindo a ordem apresentada n
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License](LICENSE). (FAÇA OQ QUISER COM ELE, HEHE)
