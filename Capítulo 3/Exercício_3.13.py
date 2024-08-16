@@ -7,4 +7,4 @@ print ("Essa é a temperatura atual em graus celsius: %d" %temperatura)
 
 fahrenheit = (temperatura * 9 / 5) +32
 
-print ("Essa é a temperatura atual em fahrenheit: %d" % fahrenheit)
+print("Essa é a temperatura atual em Fahrenheit: %.2f" % fahrenheit)
