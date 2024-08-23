@@ -7,8 +7,6 @@ saldo = valor_inicial
 
 acumulador = 0
 
-juros_mes = (taxa_de_juros * saldo) /100
-
 while mes <= 24:
     juros_mes = (taxa_de_juros * saldo) /100
     saldo += juros_mes
